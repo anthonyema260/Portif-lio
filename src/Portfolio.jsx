@@ -29,7 +29,7 @@ export default function Portfolio() {
     <div style={styles.container}>
       <header style={styles.header}>
         <h1>Portfólio de Anthony E. N. Alves</h1>
-        <p>Desenvolvedor Full Stack | Python, React, Next.js, TypeScript, PostgreSQL</p>
+        <p>Desenvolvedor Full Stack | Python, React, Next.js</p>
       </header>
 
       <section style={styles.projectsSection}>
